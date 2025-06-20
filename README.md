@@ -45,7 +45,7 @@ Me chamo Guilherme Fernandes, tenho 18 anos e sou natural de S√£o Paulo. Conclu√
 <img 
     align="left" 
     alt="Java" 
-    title="Next.js"
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
@@ -53,12 +53,12 @@ Me chamo Guilherme Fernandes, tenho 18 anos e sou natural de S√£o Paulo. Conclu√
 
 <img 
     align="left" 
-    alt="NodeJs"
-    title="NodeJs" 
-    width="45px" 
+    alt="Mysql"
+    title="Mysql" 
+    width="60px" 
     style="padding-right: 10px;" 
-    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-                    
+    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+                              
 <br/>
 <br/>
 
