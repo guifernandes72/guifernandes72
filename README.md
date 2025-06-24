@@ -1,6 +1,6 @@
 # 👨‍💻 Guilherme Fernandes
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack`** 
 
 Me chamo Guilherme Fernandes, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC Professor Camargo Aranha, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na USJT. 
 
