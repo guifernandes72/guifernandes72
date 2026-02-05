@@ -1,37 +1,52 @@
 # 👨‍💻 Guilherme Fernandes
+**`Engenharia de Software | USJT`**
 
-**`Desenvolvedor FullStack`** Me chamo Guilherme Fernandes, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC Professor Camargo Aranha, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na USJT. 
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Localização-São%20Paulo-blue?style=for-the-badge" />
+</p>
+
+Me chamo Guilherme Fernandes, tenho 18 anos e sou natural de São Paulo. Formado como Técnico em Desenvolvimento de Sistemas pela **ETEC Camargo Aranha**, hoje foco meus estudos em Engenharia de Software e no ecossistema FullStack.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block">
-  <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="NodeJs" title="NodeJs" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="left" alt="Mysql" title="Mysql" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="left" alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="left" alt="JS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="left" alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
 <br/><br/>
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=guifernandes72&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifernandes72&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=guifernandes72&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifernandes72&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
 
 ---
 
-### 🛠️ No que estou trabalhando agora
-Atualmente desenvolvendo um **CRUD de Livros** com Node.js e MySQL.
+### 🏗️ Projetos em Destaque
+* **CRUD de Livros**: Sistema completo de gerenciamento de biblioteca utilizando Node.js, Express e banco de dados MySQL.
+* **Portfólio Pessoal**: Este repositório que você está visitando!
 
 ---
 
-### 📫 Como me encontrar
-[![LinkedIn](https://www.linkedin.com/in/guilhermefernandeslima/)
+### 📫 Vamos nos conectar?
+
+<p align="left">
+<a href="https://www.linkedin.com/in/guilherme-fernandes-b703122b1" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:seuemail@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
