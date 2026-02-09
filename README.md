@@ -37,10 +37,10 @@ Me chamo Guilherme Fernandes, tenho 18 anos e sou natural de São Paulo. Formado
 ### 📫 Vamos nos conectar?
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/guilherme-fernandes-b703122b1" target="_blank](https://www.linkedin.com/in/guilhermefernandeslima/)">
+<a href="https://www.linkedin.com/in/guilhermefernandeslima/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:seuemail@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjnKZZrhsGCLGHdsqlgrmZMHjpcnsvTHrgmzJkmRHmmtxgcZCGjhnSndNrghPKWcVDDVq"_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
