@@ -32,13 +32,6 @@ Me chamo Guilherme Fernandes, tenho 18 anos e sou natural de São Paulo. Formado
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifernandes72&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
 
----
-
-### 🏗️ Projetos em Destaque
-* **CRUD de Livros**: Sistema completo de gerenciamento de biblioteca utilizando Node.js, Express e banco de dados MySQL.
-* **Portfólio Pessoal**: Este repositório que você está visitando!
-
----
 
 ### 📫 Vamos nos conectar?
 
